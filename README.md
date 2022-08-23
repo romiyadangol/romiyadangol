@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romiyadangol&label=Profile%20views&color=0e75b6&style=flat" alt="romiyadangol" /> </p>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romiyadangol" alt="romiyadangol" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **C#**
