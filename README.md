@@ -83,7 +83,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 <h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
-<p align="center"><img src="https://github.com/romiyadangol/romiyadangol/blob/main/ezgif.com-gif-maker.gif" alt="@romiyadangol Gitub Skyline" width="600" /></p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&theme=dracula&show_icons=true" alt="romiyadangol" width="400" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=romiyadangol&theme=dracula&hide_border=false" alt ="romiyadangol" width="400" />
