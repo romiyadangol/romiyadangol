@@ -11,7 +11,7 @@
 
 
 - 😄 Pronouns:<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/sheher.svg">
-- 🔭 Currently working on **C# Project**.
+- 🔭 Currently working on **JAVA**.
 - 🌱 Currently learning C#,CSS.
 - 👯 I’m looking to collaborate on open source.
 - 💬 I love exploring and learning new skills as well as implement those in my projects.
