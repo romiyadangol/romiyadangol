@@ -94,6 +94,10 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=romiyadangol&theme=dracula&hide_border=false" alt ="romiyadangol" width="400" />
 </p>
 
-![snake gif](https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif) -->
 
-<!-- <h3 align="center">Thank you so much for coming here :pray:</h3> -->
+<p align="center">
+  <img src="https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif" />
+</p>
+
+<h3 align="center">Thank you so much for coming here :pray:</h3>
