@@ -1,18 +1,21 @@
 <!--![MasterHead](https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif)
 -->
-<h1 align="center">Hi 👋, I'm Romiya Dangol</h1>
-<h3 align="center">A passionate Programmer from Nepal</h3>
 
+
+<h1 align="center">Hi 👋, I'm Romiya Dangol</h1>
+<!-- <h3 align="center">A passionate Programmer from Nepal</h3> -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romiyadangol" alt="romiyadangol" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romiyadangol&label=Profile%20views&color=0e75b6&style=flat" alt="romiyadangol" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romiyadangol&show_icons=true&locale=en&layout=compact" alt="romiyadangol" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romiyadangol" alt="romiyadangol" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romiyadangol&show_icons=true&locale=en&layout=compact" alt="romiyadangol" /></p>
 
 
-- 😄 Pronouns:<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/sheher.svg">
-- 🔭 Currently working on **JAVA**.
-- 🌱 Currently learning C#,CSS.
+
+<!-- - 😄 Pronouns:<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/sheher.svg"> -->
+- 🔭 Currently working on **C# Project**.
+- 🌱 Currently learning **JAVA**.
 - 👯 I’m looking to collaborate on open source.
 - 💬 I love exploring and learning new skills as well as implement those in my projects.
 - 📫 How to reach me: **dangolromiya@gmail.com**.
@@ -93,4 +96,4 @@
 
 ![snake gif](https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif)
 
-<h3 align="center">Thank you so much for coming here :pray:</h3>
+<!-- <h3 align="center">Thank you so much for coming here :pray:</h3> -->
