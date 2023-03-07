@@ -1,15 +1,13 @@
 <!--![MasterHead](https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif)
 -->
-
-
 <h1 align="center">Hi 👋, I'm Romiya Dangol</h1>
 <!-- <h3 align="center">A passionate Programmer from Nepal</h3> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romiyadangol" alt="romiyadangol" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romiyadangol&label=Profile%20views&color=0e75b6&style=flat" alt="romiyadangol" /> </p>
+ <a href="https://github.com/romiyadangol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiyadangol&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romiyadangol&show_icons=true&locale=en&layout=compact" alt="romiyadangol" /></p>
 
 
 
@@ -90,9 +88,24 @@
 
 <p align="center"><img src="https://github.com/romiyadangol/romiyadangol/blob/main/ezgif.com-gif-maker.gif" alt="@romiyadangol Gitub Skyline" width="600" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&theme=dracula&show_icons=true" alt="romiyadangol" width="400" />
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&theme=dracula&show_icons=true" alt="romiyadangol" width="400" /> -->
+<p align="center"><picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true" />
+</picture>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=romiyadangol&theme=dracula&hide_border=false" alt ="romiyadangol" width="400" />
 </p>
+
+
+
+
 
 <!-- ![snake gif](https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif) -->
 
