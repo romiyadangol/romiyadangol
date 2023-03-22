@@ -5,7 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romiyadangol" alt="romiyadangol" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romiyadangol&label=Profile%20views&color=0e75b6&style=flat" alt="romiyadangol" /> </p>
- <a href="https://github.com/romiyadangol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiyadangol&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/romiyadangol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiyadangol&exclude_repo=github-readme-stats,romiyadangol.github.io)(https://github.com/romiyadangol/github-readme-stats)" /></a> 
+ 
 
 
 
@@ -90,17 +91,18 @@
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&theme=dracula&show_icons=true" alt="romiyadangol" width="400" /> -->
 <p align="center"><picture>
-<source 
+<!-- <source 
   srcset="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
-/>
+/> -->
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true" />
 </picture>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=romiyadangol&theme=dracula&hide_border=false" alt ="romiyadangol" width="400" />
+<img src="https://streak-stats.demolab.com?user=romiyadangol&theme=apprentice)(https://git.io/streak-stats)" alt ="romiyadangol" width="400" />
+ 
 </p>
 
 
