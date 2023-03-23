@@ -20,9 +20,9 @@
 - 📫 How to reach me: **dangolromiya@gmail.com**.
 - ⚡ Most important thing :heart: I enjoy what I do. :heart:
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
-<h2 align="center">Languages:</h2>
+<!-- <h2 align="center">Languages:</h2>
 <p align="center">
 <a href="https://www.w3schools.com/c/">
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -36,7 +36,7 @@
 <a href="https://www.w3schools.com/cs/index.php">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
 </a><a href="https://dotnettutorials.net/course/csharp-dot-net-tutorials/"><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet"style="vertical-align:top; margin:6px 4px"></a><a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg"></a><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg"></a>   
-</p>
+</p> -->
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="center">My Socials :handshake: </h2>
@@ -115,4 +115,3 @@
   <img src="https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif" />
 </p>
 
-<h3 align="center">Thank you so much for coming here :pray:</h3>
