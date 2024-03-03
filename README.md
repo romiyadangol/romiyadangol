@@ -14,8 +14,8 @@
 
 
 <!-- - 😄 Pronouns:<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/sheher.svg"> -->
-- 🔭 Currently working on **JAVA Project**.
-- 🌱 Currently learning **JAVASCRIPT**.
+- 🔭 Currently working on **JS Project**.
+- 🌱 Currently learning **REACT**.
 - 👯 I’m looking to collaborate on open source.
 - 💬 I love exploring and learning new skills as well as implement those in my projects.
 - 📫 How to reach me: **dangolromiya@gmail.com**.
