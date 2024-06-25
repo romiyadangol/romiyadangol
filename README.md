@@ -1,117 +1,29 @@
-<!--![MasterHead](https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif)
--->
 <h1 align="center">Hi 👋, I'm Romiya Dangol</h1>
-<!-- <h3 align="center">A passionate Programmer from Nepal</h3> -->
+<h3 align="center">A Mern-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romiyadangol&label=Profile%20views&color=0e75b6&style=flat" alt="romiyadangol" /> </p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=romiyadangol&show_icons=true&locale=en&layout=compact" alt="romiyadangol" />
-&nbsp</p>
- 
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **REACT**
 
+- 🌱 I’m currently learning **Node.js**
 
+- 👯 I’m looking to collaborate on **open source**
 
-<!-- - 😄 Pronouns:<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/sheher.svg"> -->
-- 🔭 Currently working on **JS Project**.
-- 🌱 Currently learning **REACT**.
-- 👯 I’m looking to collaborate on open source.
-- 💬 I love exploring and learning new skills as well as implement those in my projects.
-- 📫 How to reach me: **dangolromiya@gmail.com**.
-- ⚡ Most important thing :heart: I enjoy what I do. :heart:
+- 📫 How to reach me **dangolromiya@gmail.com**
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
-<!-- <h2 align="center">Languages:</h2>
-<p align="center">
-<a href="https://www.w3schools.com/c/">
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-</a>
-<a href="https://www.w3schools.com/cpp/default.asp">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-</a>
-</p>    
- 
-<p align="center">
-<a href="https://www.w3schools.com/cs/index.php">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-</a><a href="https://dotnettutorials.net/course/csharp-dot-net-tutorials/"><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet"style="vertical-align:top; margin:6px 4px"></a><a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg"></a><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg"></a>   
-</p> -->
+- ⚡ Fun fact **I enjoy what I do.**
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">My Socials :handshake: </h2>
-<p align="center">
-<a href="https://linkedin.com/in/romiya-dangol-383532223" target="blank">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px"
-</a>
-  
-<a href="https://instagram.com/_imromiya" target="blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/romiya dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romiya dangol" height="30" width="40" /></a>
 </p>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h2 align="center">My Tools :gear: </h2>
-<p align="center">
-<a href="https://git-scm.com">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://github.com/arpanaditya">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
-</a> 
-</p>
-
-------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">My Tech Stack 🧰</h2>
-<p align="center">
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"  width="30" height="30"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romiyadangol&show_icons=true&locale=en&layout=compact" alt="romiyadangol" /></p>
 
 
-
-----------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
-
-<p align="center"><img src="https://github.com/romiyadangol/romiyadangol/blob/main/ezgif.com-gif-maker.gif" alt="@romiyadangol Gitub Skyline" width="600" /></p>
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&theme=dracula&show_icons=true" alt="romiyadangol" width="400" /> -->
-<p align="center"><picture>
-<!-- <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/> -->
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=romiyadangol&show_icons=true" />
-</picture>
-<img src="https://streak-stats.demolab.com?user=romiyadangol&theme=apprentice)(https://git.io/streak-stats)" alt ="romiyadangol" width="400" />
- 
-</p>
-
-
-
-
-
-<!-- ![snake gif](https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif) -->
-
-<!--<p align="center">
-   <img src="https://github.com/romiyadangol/romiyadangol/blob/output/github-contribution-grid-snake.gif" />
- </p> -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romiyadangol&" alt="romiyadangol" /></p>
