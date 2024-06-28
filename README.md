@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **dangolromiya@gmail.com**
 
-- ⚡ Fun fact **I enjoy what I do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
