@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **REACT**
+- 🔭 I’m currently working on **REACT.**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js.**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **open source.**
 
 - 📫 How to reach me **dangolromiya@gmail.com**
 
